@@ -1,0 +1,3 @@
+{"id": "c225724b-2d93-4c5b-85f0-4ef67a012ece", "timestamp": 1763909685.0123117, "order": {"drinkType": "cappuccino", "size": "Grande", "milk": "Soy", "extras": ["Caramel"], "name": "Gradual"}}
+{"id": "f722552d-6428-4299-b610-9975935c2fee", "timestamp": 1763909978.602345, "order": {"drinkType": "coffee", "size": "Trenta", "milk": "Soy", "extras": [], "name": "Graduate"}}
+{"id": "e2ecef91-bf0b-4c00-b062-242634999526", "timestamp": 1763910092.9487722, "order": {"drinkType": "cappuccino", "size": "Trenta", "milk": "2%", "extras": [], "name": "gradual"}}
