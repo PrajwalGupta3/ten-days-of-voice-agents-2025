@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-11-26T19:19:40.507283",
+    "data": {
+      "name": null,
+      "company": null,
+      "role": null,
+      "use_case": null,
+      "team_size": null,
+      "timeline": null
+    },
+    "status": "INCOMPLETE"
+  },
+  {
+    "timestamp": "2025-11-26T20:01:26.629913",
+    "data": {
+      "name": "Unknown",
+      "company": "Tech Flow Solutions",
+      "role": "Engineering Manager",
+      "use_case": "API documentation",
+      "team_size": "15",
+      "timeline": "2 months"
+    },
+    "status": "QUALIFIED"
+  },
+  {
+    "timestamp": "2025-11-26T20:01:41.415348",
+    "data": {
+      "name": "Unknown",
+      "company": "Tech Flow Solutions",
+      "role": "Engineering Manager",
+      "use_case": "API documentation",
+      "team_size": "15",
+      "timeline": "2 months"
+    },
+    "status": "QUALIFIED"
+  }
+]

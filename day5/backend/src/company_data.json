@@ -1,0 +1,36 @@
+{
+  "company_name": "Postman",
+  "what_is_it": "Postman is an API platform for building and using APIs. It simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. It is used by 98% of the Fortune 500.",
+  "target_audience": "We are built for Developers, QA Engineers, Product Managers, and Engineering Leaders.",
+  "key_features": [
+    "API Client for sending requests (REST, GraphQL, gRPC)",
+    "Automated Testing & Mock Servers",
+    "API Documentation",
+    "Workspaces for collaboration",
+    "Newman CLI for CI/CD integration"
+  ],
+  "pricing": {
+    "Free": "0 USD/month. Great for individuals and small teams. Includes 3 users and basic API tools.",
+    "Basic": "14 USD/user/month. Includes 30 days of collection recovery and unlimited collaboration invitations.",
+    "Professional": "29 USD/user/month. Includes Single Sign-On (SSO) and basic roles and permissions (RBAC).",
+    "Enterprise": "49 USD/user/month. Includes advanced security, reporting, Domain Capture, and dedicated support."
+  },
+  "faq": [
+    {
+      "q": "Do I need to know coding to use Postman?",
+      "a": "Not necessarily! You can use the visual interface to send requests, but knowing JavaScript helps for writing advanced tests."
+    },
+    {
+      "q": "Can I use it for free?",
+      "a": "Yes, our Free tier is very generous. It allows up to 3 team members to collaborate and gives you access to the API Client and Mock Servers."
+    },
+    {
+      "q": "Is my data secure?",
+      "a": "Absolutely. We are SOC 2 Type 2 compliant, use AES-256 encryption, and have a 'Secret Scanner' to prevent you from accidentally exposing API keys."
+    },
+    {
+      "q": "What is the main difference between Professional and Enterprise?",
+      "a": "The Enterprise plan adds advanced security features like Domain Capture and custom governance rules, plus it includes dedicated support."
+    }
+  ]
+}
